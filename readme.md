@@ -18,7 +18,7 @@ First:
 sudo apt update
 
 Then:
-sudo apt install git
+sudo apt install https://github.com/SYOP200/Cake.git
 
 Now:
 git link
