@@ -6,24 +6,35 @@
     ##   ##   ##      ##    ##    ##    ##  
     ##   ##   #####   ###   ###     ####    
 ```
+## About
+Cake is all about a custom display that is changable in the files. You can edit them and change them to your needs.
+
+---
+
 ## Installation
 Installing Cake is easy and simple for new users. <br>
-
+```
 First:
-`sudo apt update`
+sudo apt update
 
 Then:
-`sudo apt install git`
+sudo apt install git
 
 Now:
-`git link`
+git link
 
 Then:
-`cd Cake`
+cd Cake
 
 Finally:
-`bash cake.sh`
+bash cake.sh
+```
+---
 
+## Project Structure
+```
+
+```
 ---
 
 **Made by SYOP200**
