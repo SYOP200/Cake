@@ -48,6 +48,24 @@ bash cake.sh
 
 ## Project Structure
 ```
+Cake/
+├── core/
+│   ├── terminal.c        
+│   ├── exec.c           
+│   ├── plugin.c       
+│   ├── theme.c         
+│   └── cake.h         
+│
+├── plugins/
+│   └── sample_plugin.c
+|   └── hello_plugin.c
+|   └── default_plugin.c
+│
+├── themes/
+│   └── default.json
+│
+├── ui/                   
+
 
 ```
 ---
