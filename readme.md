@@ -24,10 +24,10 @@ First:
 sudo apt update
 
 Then:
-sudo apt install https://github.com/SYOP200/Cake.git
+sudo apt install git
 
 Now:
-git link
+git https://github.com/SYOP200/Cake.git  # If that does not work, try "sudo git https://github.com/SYOP200/Cake.git"
 
 Then:
 cd Cake
