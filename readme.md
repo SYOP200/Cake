@@ -20,28 +20,28 @@ Cake is all about a custom display that is changable in the files. You can edit 
 ## Installation
 Installing Cake is easy and simple for new users. <br>
 ```
-# First:
+# First, update:
 sudo apt update
 ```
 
 ```
-# Then:
+# Then install git, if not already installed:
 sudo apt install git
 ```
 
 ```
-# Now:
+# Now, clone the repo:
 git clone https://github.com/SYOP200/Cake.git
 # If that does not work, try "sudo git https://github.com/SYOP200/Cake.git"
 ```
 
 ```
-# Then:
+# Then open the directory:
 cd Cake
 ```
 
 ```
-# Finally:
+# Finally, run cake:
 bash cake.sh
 ```
 ---
