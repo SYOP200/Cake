@@ -6,7 +6,8 @@
 CONFIG_DIR="$HOME/.config/cake"
 THEME_DIR="$(dirname "$0")/themes"
 PLUGIN_DIR="$(dirname "$0")/plugins"
-CONFIG_FILE="$CONFIG_DIR/config.conf"
+CONFIG_FILE="$HOME/config/cake.conf"
+[[ -f "$CONFIG_FILE" ]] && source "$CONFIG_FILE"
 
 mkdir -p "$CONFIG_DIR"
 
