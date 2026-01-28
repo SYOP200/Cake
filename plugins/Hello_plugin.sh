@@ -1,0 +1,21 @@
+plugin_name="Hello Panel"
+plugin_version="1.0.0"
+plugin_author="Cake Project"
+plugin_description="A friendly hello panel" 
+
+plugin_draw() {
+  echo " Welcome, Initializing servers..."
+  echo " Loading boot..."
+  echo "                "
+  echo " ##   ##   #####   ##    ##      ####    "
+  echo " ##   ##   ##      ##    ##    ##    ##  "
+  echo " #######   ####    ##    ##   #        # "
+  echo " ##   ##   ##      ##    ##    ##    ##  "
+  echo " ##   ##   #####   ###   ###     ####    "
+  echo " ======================================= "
+  echo "                                         "
+  echo "   System is up and running!            "
+  echo " --------------------------------------- "
+  echo " -                                     -"
+  echo " Enjoy your experience!                "
+}
