@@ -1,16 +1,11 @@
 ## Cake
 ``` 
-     🎂  CAKE SYSTEM MONITOR  🎂  
-      ===========================
-      
-        
       ██████╗  █████╗ ██╗  ██╗███████╗              
      ██╔════╝ ██╔══██╗██║ ██╔╝██╔════╝              
      ██║      ███████║█████╔╝ █████╗                
      ██║      ██╔══██║██╔═██╗ ██╔══╝                
      ╚██████╗ ██║  ██║██║  ██╗███████╗              
       ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-
 ```
 ## About
 Cake is all about a custom display, similar to Neofetch, that is fully customizable. View live system stats and information all in one active display. Plugins can customize welcome screens, themes and ascci art. You can edit them and change them in the files or, in the built in config settings, to your needs.
@@ -18,7 +13,7 @@ Cake is all about a custom display, similar to Neofetch, that is fully customiza
 ### Features
 - Built in apps panel/switcher (activated when you press "a")
 - Settings and easy config (activated when you press "q")
-- 
+
 A system stats moniter that displays current system information, time, date and hostname.
 ## Screenshots
 
